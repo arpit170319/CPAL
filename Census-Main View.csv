@@ -1,0 +1,83 @@
+﻿Name,Fields,Category
+Total Population,B01003_001E,Demographics
+# Children 0-5,"B01001_003E+B01001_027E
+
+
+",Demographics
+Total Population Identifying as White,B02001_002E,Demographics
+Total Population Identifying as Black or African American,B02001_003E,Demographics
+Total Population Identifying as HIspanic or Latino Origin,B03003_003E,Demographics
+Population of Single Moms,B09005_005E,Demographics
+Median Age,B01002_001E,Demographics
+English Only,B16002_002E,Demographics
+Number of Spanish Speaking Households,B16002_003E,Demographics
+% Spanish Speaking Households,B16002_003E/B16002_001E,Demographics
+% covered by health insurance,(B27001_002E+B27001_030E)/B27001_001E,Demographics
+Same House 1 Year Ago,B07001_017E,Demographics
+% Moved From Abroad,B07001_081E/B07001_001E,Demographics
+% Same House 1 Year Ago,B07001_017E/B07001_001E,Demographics
+% White,B02001_002E/B02001_001E,Demographics
+% African American,B02001_003E/B02001_001E,Demographics
+% Hispanic,B03003_003E/B03003_001E,Demographics
+% Single Moms,B09005_005E/B09005_001E,Demographics
+Moved From Abroad,B07001_081E,Demographics
+Educational Attainment - Above Associates,B15003_001E+B15003_021E+B15003_022E+B15003_023E+B15003_024E+B15003_025E,Education
+Educational Attainment - % Graduated High School,"(B15003_017E+
+B15003_018E+
+B15003_019E+
+B15003_020E+
+B15003_021E+
+B15003_022E+
+B15003_023E+
+B15003_024E+
+B15003_025E)/B15003_001E",Education
+Educational Attainment (% Above Associates),(B15003_001E+B15003_021E+B15003_022E+B15003_023E+B15003_024E+B15003_025E)/B15003_001E,Education
+Educational Attainment - Graduated High School,"(B15003_017E+
+B15003_018E+
+B15003_019E+
+B15003_020E+
+B15003_021E+
+B15003_022E+
+B15003_023E+
+B15003_024E+
+B15003_025E)",Education
+Total Housing Units,B25001_001E,Housing
+Median gross rent as a percentage of household income,B25071_001E,Housing
+Vacant,B25002_003E/B25002_001E,Housing
+Median Monthly Housing Cost,B25105_001E,Housing
+# Owner Occupied,B25008_002E,Housing
+% Owner,B25008_002E/B25008_001E,Housing
+# Renter Occupied,B25008_003E,Housing
+% Renter,B25008_003E/B25008_001E,Housing
+Average Household Size,B25010_001E,Housing
+Median Gross Rent as % Of Income,B25071_001E,Housing
+% of Housing Units Without a Mortgage,B25081_008E/B25081_001E,Housing
+Housing Units Without a Morgage,B25081_008E,Housing
+Public Transportation,B08301_010E/B08301_001E,Transportation
+Motorcycle,B08301_017E/B08301_001E,Transportation
+walked,B08301_019E/B08301_001E,Transportation
+worked at home,B08301_021E/B08301_001E,Transportation
+bicycle,B08301_018E/B08301_001E,Transportation
+Public transportation (Subway),B08301_013E,Transportation
+Public transportation (Streetcar),B08301_012E,Transportation
+Public transportation (bus),B08301_011E,Transportation
+Less than 5 minutes,B08303_002E,Transportation
+Travel Time to Work (90+ minutes),B08303_013E,Transportation
+30 to 90 minutes,"B08303_008E+B08303_009E+B08303_010E+B08303_011E+B08303_012E
+",Transportation
+0 to 30 minutes,"B08303_002E+B08303_003E+B08303_004E+B08303_005E+B08303_006E+B08303_007E",Transportation
+Income in the past 12 months below poverty level,B17001_002E,Economy
+Median household income in the past 12 months (in 2013 inflation-adjusted dollars),B19013_001E,Economy
+In labor force (Civilian labor force - Unemployed),B23025_005E,Economy
+# Not In Labor Force,B23025_007E,Economy
+C17002.  Ratio of Income to Poverty Level in the Past 12 Months (2+),C17002_008E,Economy
+C17002.  Ratio of Income to Poverty Level in the Past 12 Months (1-2),"C17002_004E+ C17002_005E + C17002_006E+ C17002_007E
+",Economy
+Gross Rent as a Percentage of Household Income (50.0 percent or more),B25070_010E/B25070_001E,Economy
+C17002.  Ratio of Income to Poverty Level in the Past 12 Months (under 1),"C17002_002E+ C17002_003E
+",Economy
+With cash public assistance or Food Stamps/SNAP,B19058_002E,Economy
+% Not In Labor Force,B23025_007E/B23025_001E,Economy
+% Unemployment,B23025_005E/B23025_002E,Economy
+women who had birth in past 12 months,B13002_002E,health
+Women who had a birth in the past 12 months (Unmarried-15 to 19 years old),B13002_008E,health
