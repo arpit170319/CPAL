@@ -1,1 +1,3 @@
-Project "Data For Good" in colaboration with Child Poverty Action Lab, Dallas, TX
+Project "Data For Good"
+Child Poverty Action Lab, Dallas, TX
+
