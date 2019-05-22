@@ -1,7 +1,7 @@
 from org.opentripplanner.scripting.api import *
 from org.opentripplanner.scripting.api import OtpsEntryPoint
 
-### arpit router = otp.getRouter("current")
+###   router = otp.getRouter("current")
 
 # Instantiate an OtpsEntryPoint
 otp = OtpsEntryPoint.fromArgs(['--graphs', 'graphs','--router', 'current'])
@@ -18,7 +18,7 @@ points = otp.loadCSVPopulation('points.csv', 'Centy', 'Centx')
 
 dests = otp.loadCSVPopulation('Dallas_ISD.csv', 'Latitude', 'Longitude')
 # Create a default request for a given time
-# Arpit-- for h in range(0, 24):
+#  -- for h in range(0, 24):
 
 for h in range(8 , 9):
 	for m in range(0,60,30): # Loop every 30 minutes
@@ -45,7 +45,7 @@ for h in range(8 , 9):
 		#matrixCsv1 = otp.createCSVOutput()
 		#matrixCsv1.setHeader([ 'year','depart_time', 'origin', 'destination','travel_time' ])
 		#print("checkpoint3")
-		## Arpit
+		##  
 		for origin in points:
 			loop_time = time.time()
 			print "Processing origin: ", str(h)+"-"+str(m)," ", origin
